@@ -1,16 +1,54 @@
-## Hi there 👋
+# Hi there, I'm Likhitha 👋
 
-<!--
-**likhitha-2006/likhitha-2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BTech CSE student | 🧠 Passionate about Open Source, Python & Innovation
+🌐 Aspiring GSoC 2025 Contributor | 💻 Learning GitHub Actions & Django
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+💡 About Me
+
+🔭 Currently preparing a GSoC proposal for Django
+
+🌱 Learning Python, Java, JavaScript, and SQL
+
+💡 Interested in automation, open-source, and creative tech solutions
+
+🎯 Goal: Learn by building real-world projects and contributing to open source
+
+
+
+📌 Projects
+
+⚙️ GitHub Actions (Learning) – Automating workflows like testing and linting
+
+🌱 Django Mini Projects – Exploring Django fundamentals through small apps
+
+🧾 GSoC Django Proposal – Drafting a GitHub Actions automation project for GSoC
+
+🔋 Wireless Charger Prototype – Designed a concept to charge phones using sound & heat energy
+
+
+
+
+---
+
+🛠️ Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=fff)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=fff)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+
+---
+
+📫 Let's Connect
+- 🐙 [GitHub](https://github.com/likhitha-2006)
+- 📚 [Django Forum Profile](https://forum.djangoproject.com/u/likhitha-2006)
+- 💌 Email: likhitaporandla@gmail.com
+
+---
+
+*“Code with purpose. Build with heart.” ❤️*
+
