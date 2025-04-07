@@ -48,6 +48,10 @@
 - 📚 [Django Forum Profile](https://forum.djangoproject.com/u/likhitha-2006)
 - 💌 Email: likhitaporandla@gmail.com
 
+ 🌐 Community Activity
+- 🐙 [GitHub](https://github.com/likhitha-2006)
+- 💬 [Django Forum Discussions](https://forum.djangoproject.com/u/likhitha-2006/activity/topics)
+
 ---
 
 *“Code with purpose. Build with heart.” ❤️*
