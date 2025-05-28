@@ -8,7 +8,7 @@
 
 💡 About Me
 
-🔭 Currently preparing a GSoC proposal for Django
+
 
 🌱 Learning Python, Java, JavaScript, and SQL
 
@@ -20,11 +20,7 @@
 
 📌 Projects
 
-⚙️ GitHub Actions (Learning) – Automating workflows like testing and linting
 
-🌱 Django Mini Projects – Exploring Django fundamentals through small apps
-
-🧾 GSoC Django Proposal – Drafting a GitHub Actions automation project for GSoC
 
 🔋 Wireless Charger Prototype – Designed a concept to charge phones using sound & heat energy
 
