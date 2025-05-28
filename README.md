@@ -1,7 +1,7 @@
 # Hi there, I'm Likhitha 👋
 
 🎓 BTech CSE student | 🧠 Passionate about Open Source, Python & Innovation
-🌐 Aspiring GSoC 2025 Contributor | 💻 Learning GitHub Actions & Django
+
 
 
 ---
