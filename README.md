@@ -1,6 +1,6 @@
 # Hi there, I'm Likhitha 👋
 
-🎓 BTech CSE student | 🧠 Passionate about Open Source, Python & Innovation
+🎓 BTech CSE student
 
 
 
@@ -12,9 +12,8 @@
 
 🌱 Learning Python, Java, JavaScript, and SQL
 
-💡 Interested in automation, open-source, and creative tech solutions
 
-🎯 Goal: Learn by building real-world projects and contributing to open source
+
 
 
 
@@ -22,7 +21,7 @@
 
 
 
-🔋 Wireless Charger Prototype – Designed a concept to charge phones using sound & heat energy
+🔋 Wireless Charger Prototype(ongoing) – Designed a concept to charge phones using sound & heat energy
 
 
 
