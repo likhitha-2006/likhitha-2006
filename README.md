@@ -16,15 +16,17 @@
 
 | Project | Technical Scope | Links |
 | :--- | :--- | :--- |
-| **Freelancer Project Board** | Full-stack MERN marketplace supporting concurrent real-time bidding via Socket.io, milestone state transitions, and multi-stage MongoDB aggregation pipelines. | [Live Deployment](INSERT_NETLIFY_LINK) • [Repository](https://github.com) |
-| **Hybrid Network Intrusion Detection** | Multi-stage CNN-LSTM and XGBoost security model trained on CICIDS2017 traffic with automated feature extraction and anomaly classification. | [Repository](https://github.com) |
-| **Crop Recommendation Engine** | Predictive engine evaluating multi-variant soil nutrients and climatic metrics, backed by indexed SQL queries to minimize data-loading latency. | [Live Deployment](INSERT_NETLIFY_LINK) • [Repository](https://github.com) |
-| **TalentFlow** | Full-stack web application engineered with modular UI components and continuous deployment pipelines. | [Live Deployment](INSERT_NETLIFY_LINK) • [Repository](https://github.com) |
+| **Freelancer Project Board** | Full-stack MERN marketplace supporting concurrent real-time bidding via Socket.io, milestone state transitions, and multi-stage MongoDB aggregation pipelines. | [Live Deployment](https://effortless-truffle-5b1a33.netlify.app) • [Repository](https://github.com/likhitha-2006/Freelancer_Project_Board) |
+| **Hybrid Network Intrusion Detection** | Multi-stage CNN-LSTM and XGBoost security model trained on CICIDS2017 traffic with automated feature extraction and anomaly classification.
+| **Crop Recommendation Engine** | Predictive engine evaluating multi-variant soil nutrients and climatic metrics, backed by indexed SQL queries to minimize data-loading latency. | [Live Deployment](https://vermillion-monstera-8758ed.netlify.app) • [Repository](https://github.com/likhitha-2006/Crop-Recommendation-System) |
+| **TalentFlow** | Full-stack web application engineered with modular UI components and continuous deployment pipelines. | [Live Deployment](https://precious-taffy-da5856.netlify.app) • [Repository](https://github.com/likhitha-2006/TalentFlow) |
 
 ---
 
 ### Contact & Links
 
-* **LinkedIn:** [://linkedin.com](INSERT_LINKEDIN_URL)
+* **LinkedIn:** [www.linkedin.com/in/
+likhithaporandla2006
+)
 * **Email:** likhithaporandla@gmail.com
 
