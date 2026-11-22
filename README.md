@@ -16,6 +16,7 @@
 
 | Project | Technical Scope | Links |
 | :--- | :--- | :--- |
+| **FLAKEHUNTER – Flaky-Test & Race-Condition Hunter** |Python-based developer testing workbench built with Pytest and Streamlit, featuring randomized and parallel test execution, flaky-test detection, race-condition analysis, failure isolation, Docker-based test execution, and automated analytics reports. | [Live Deployment]([https://effortless-truffle-5b1a33.netlify.app](https://flaky-test-bisector-qqrdnxrqmzn9sgy3875mcc.streamlit.app/)) • [Repository](https://github.com/likhitha-2006/flaky-test-bisector) |
 | **Freelancer Project Board** | Full-stack MERN marketplace supporting concurrent real-time bidding via Socket.io, milestone state transitions, and multi-stage MongoDB aggregation pipelines. | [Live Deployment](https://effortless-truffle-5b1a33.netlify.app) • [Repository](https://github.com/likhitha-2006/Freelancer_Project_Board) |
 | **Hybrid Network Intrusion Detection** | Multi-stage CNN-LSTM and XGBoost security model trained on CICIDS2017 traffic with automated feature extraction and anomaly classification.
 | **Crop Recommendation Engine** | Predictive engine evaluating multi-variant soil nutrients and climatic metrics, backed by indexed SQL queries to minimize data-loading latency. | [Live Deployment](https://vermillion-monstera-8758ed.netlify.app) • [Repository](https://github.com/likhitha-2006/Crop-Recommendation-System) |
